@@ -4,7 +4,7 @@ Este microservicio expone una API REST construida con Spring Boot (spring-boot-s
 
 1. Requisitos Previos y Despliegue
 
-Asegúrate de que la red compartida de Docker esté creada y levanta el servicio con Docker Compose:
+Asegúrar de que la red compartida de Docker esté creada y levanta el servicio con Docker Compose:
 
 # 1. Crear red compartida de Docker (si no existe)
 docker network create red-compartida
